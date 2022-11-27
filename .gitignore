@@ -1,0 +1,11 @@
+.idea
+tmp
+bin/xray-darwin-arm64
+bin/config.json
+dist/
+wbpanel-*.tar.gz
+/wblock
+wblock.go
+/release.sh
+.sync*
+main
