@@ -4,6 +4,7 @@ bin/xray-darwin-arm64
 bin/config.json
 dist/
 wbpanel-*.tar.gz
+/web
 /wblock
 wblock.go
 /release.sh
